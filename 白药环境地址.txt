@@ -21,7 +21,7 @@ jenkins -> http://devtest-public-ci.baiyaodajiankang.cn:58080/jenkins/view    ye
 jenkenis-test -> http://devtest-public-ci.baiyaodajiankang.cn:58080/jenkins/view/B2B%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0/
 jenkenis-dev -> http://devtest-public-ci.baiyaodajiankang.cn:58080/jenkins/view/kubernetes/job/b2b-k8s-deploy/build?delay=0sec
 堡垒机 -> http://172.16.10.189/ui/#/  tonganyuan/Ynby_21&
-生产环境XXL-JOB admin/b2b_dev@123
+生产环境XXL-JOB http://172.16.10.130:8081/xxl-job-admin/ admin/b2b_dev@123
 短信平台-》 http://hcopm.baiyaodajiankang.com/#/login   tonganyuan/817410
 K3----------->生产： http://k.ynby.cn:8100/k3cloud/html5/index.aspx 测试：http://192.168.22.61/k3cloud/html5/dform.aspx?formId=BOS_HtmlConsole&formType=mobileform&pageId=MainPageId&_cnneptstate_=fC86fCoqbWx8KioyfCoqXS8vXl0xXC0lLC5cXSUsXVxZJVpaKSwlWlwsXV4tMCldLF0sfCoqJHwqKmthXHwqKjJ8KiouMVwxLy1ZLyUoMF4rJSxdKi4lWl4sMCUvW1paMVsxXikuKV18KiokfCoqY11xfCoqMnwqKnBybWBlKGdrZSlpW2JyX3BdcGhbXmxdbnwqKnwvPA%3D%3D&custparam=
 
