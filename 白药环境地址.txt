@@ -1,0 +1,34 @@
+vpn地址：
+线路1：https://36.147.12.96:2222/portal/#!/login
+线路2：https://220.163.107.238:2222/portal/#!/login   
+
+https://vpn.ynby.cn tay242569/tay@123
+推荐优先使用线路1
+
+集团VPN地址：https://vpn.ynby.cn
+
+redmine ->http://172.16.10.93:3000/my/page   tonganyuan/Ynby_21&
+wiki -> http://172.16.10.93:8090/#all-updates
+gitlab -> http://gitlab.cmcc.baiyaodajiankang.cn/dashboard/groups  tonganyuan/tay19880816
+b2b 测试环境 -> https://test.baiyaodajiankang.com/b2b-platform
+jenkins -> http://devtest-public-ci.baiyaodajiankang.cn:58080/jenkins/view    yejh/Ynby2020
+产品原型 ->https://i7rewv.axshare.com/#id=p1yqvu&p=%E7%89%A9%E6%96%99%E7%AE%A1%E7%90%86&g=1
+工单 -> http://work.baiyaodajiankang.com/#/home  tonganyuan/Ynby_21&
+邮箱 https://mail.ynby.cn tonganyuan@ynby.cn Ynby313983
+运维明玉-》https://10.11.4.50/index.php/login tonganyuan/Ynby_21& b2buser/b2buser@ynby2022
+桉油需求池-》https://z7d1chr993.feishu.cn/wiki/wikcnoOOKLBquAoY6SRT86EHoVg?table=tbl6scLZIkkpuWyx&view=vew1TyaNQW 
+系统对接流程-> https://z7d1chr993.feishu.cn/wiki/wikcnAVKFWw4j66b3jKpJhNv3uc
+jenkenis-test -> http://devtest-public-ci.baiyaodajiankang.cn:58080/jenkins/view/B2B%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0/
+jenkenis-dev -> http://devtest-public-ci.baiyaodajiankang.cn:58080/jenkins/view/kubernetes/job/b2b-k8s-deploy/build?delay=0sec
+堡垒机 -> http://172.16.10.189/ui/#/  tonganyuan/Ynby_21&
+生产环境XXL-JOB admin/b2b_dev@123
+短信平台-》 http://hcopm.baiyaodajiankang.com/#/login   tonganyuan/817410
+K3----------->生产： http://k.ynby.cn:8100/k3cloud/html5/index.aspx 测试：http://192.168.22.61/k3cloud/html5/dform.aspx?formId=BOS_HtmlConsole&formType=mobileform&pageId=MainPageId&_cnneptstate_=fC86fCoqbWx8KioyfCoqXS8vXl0xXC0lLC5cXSUsXVxZJVpaKSwlWlwsXV4tMCldLF0sfCoqJHwqKmthXHwqKjJ8KiouMVwxLy1ZLyUoMF4rJSxdKi4lWl4sMCUvW1paMVsxXikuKV18KiokfCoqY11xfCoqMnwqKnBybWBlKGdrZSlpW2JyX3BdcGhbXmxdbnwqKnwvPA%3D%3D&custparam=
+
+1.EBS 接口批量最大传输数量是10个。
+2.创建采购订单接口，应付发票接口 接口调用超时EBS直接回滚单据，b2b需重传
+3.采购订单接收/退货接口 EBS 成功接收数据就返回，超时回滚数据。 
+EBS单号需要b2b调用单号查询接口
+4.b2b端校验业务数据准确性。
+
+
